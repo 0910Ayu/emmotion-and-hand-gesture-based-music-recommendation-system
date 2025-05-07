@@ -21,7 +21,7 @@ Fist – Expresses anger or intensity; plays aggressive or high-energy songs.
 <H3> Emotion based expressions: </H3>
  To get familiar
  with the proposed system the user can show the
- available expressions as shown in figure 2. The
+ available expressions . The
  system will work only on these seven emotion
  based expressions.
  
