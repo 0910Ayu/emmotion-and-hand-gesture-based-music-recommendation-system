@@ -1,4 +1,4 @@
-# emmotion-and-hand-gesture-based-music-recommendation-system
+# Emmotion-and-Hand-Gesture-Based-Music-Recommendation-System
 Music recommendation that combines hand gestures and facial emotions for user interaction. Current
  research in music recommendation focuses on either hand gesture-based controllers or emotion-based
  players, but not both. The proposed hybrid method utilizes a facial expression recognizer (FER) algorithm
@@ -12,4 +12,8 @@ Music recommendation that combines hand gestures and facial emotions for user in
  with Melakarta ragas. The recommendation system is developed to map the detected Navarasa from
  camera input to emotional tags and provide personalized music recommendations based on the Melakarta
  ragas associated with those emotions. The simulation tools used include programming languages like
- Python, machine learning libraries like scikitlearn and computer vision frameworks like OpenCV
+ Python, machine learning libraries like scikitlearn and computer vision frameworks like OpenCV .
+
+ This project proposes an AI-based music recommendation system that uses real-time hand gestures and facial emotion recognition via webcam to suggest personalized songs. By combining gesture and emotion detection with machine learning, the system maps emotional states to suitable music (e.g., ragas) to enhance the user's mood and listening experience. Deliverables include a working system and detailed documentation.
+
+
